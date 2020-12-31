@@ -1,0 +1,9 @@
+{
+    "topic": [
+        null, "Ordinary Life", "School Life", "Culture & Education",
+        "Attitude & Emotion", "Relationship", "Tourism",
+        "Health", "Work", "Politics", "Finance"
+    ],
+    "act": [null, "inform", "question", "directive", "commissive"],
+    "emotion": ["no emotion", "anger", "disgust", "fear", "happiness", "sadness", "surprise"]
+}
