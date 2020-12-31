@@ -52,4 +52,4 @@ In this project pretrained word vectors `GloVe` was used. And in `utils.py` you 
 
 ---
 
-*If you think this program is helpful to you, plz star it and let more people to see it. :)*
+*If you think this project is helpful to you, plz star it and let more people to see it. :)*
